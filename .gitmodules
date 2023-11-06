@@ -1,21 +1,21 @@
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/Epikoinonites/_gallery
+	url = https://github.com/chriskarydis/_gallery
 [submodule "_quotes"]
 	path = _quotes
-	url = https://github.com/Epikoinonites/_quotes
+	url = https://github.com/chriskarydis/_quotes
 [submodule "images"]
 	path = images
-	url = https://github.com/Epikoinonites/images
+	url = https://github.com/chriskarydis/images
 [submodule "_bibliography"]
 	path = _bibliography
-	url = https://github.com/Epikoinonites/bibliography
+	url = https://github.com/chriskarydis/bibliography
 [submodule "_notes"]
 	path = _notes
-	url = https://github.com/Epikoinonites/notes
+	url = https://github.com/chriskarydis/notes
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/Epikoinonites/extras
+	url = https://github.com/chriskarydis/extras
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/Epikoinonites/text
