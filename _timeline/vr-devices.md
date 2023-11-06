@@ -12,5 +12,5 @@ events:
   - vpl-data-suit
   - power-glove
   - kinect
-  - VR 
+  - mixed-reality 
 ---
