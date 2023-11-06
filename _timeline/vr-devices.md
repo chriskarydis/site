@@ -12,5 +12,5 @@ events:
   - vpl-data-suit
   - power-glove
   - kinect
-  - mixed-reality 
+  - apple-mixed-reality 
 ---
