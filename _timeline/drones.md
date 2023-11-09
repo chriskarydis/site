@@ -1,7 +1,7 @@
 ---
 layout: timeline 
 title: Μη επανδρωμένο αεροσκάφος  
-image_url: /images/Drones-Original.jpg
+image_url: /images/Sirius_drone.jpg
 caption: Μη επανδρωμένα αεροχήματα  drones ονομάζονται τα κάθε είδους ιπτάμενα οχήματα που δεν έχουν χειριστή στην άτρακτό τους, αλλά πραγματοποιούν πτήσεις είτε αυτόνομα είτε μέσω τηλεκατεύθυνσης.
 events:
   - drone
