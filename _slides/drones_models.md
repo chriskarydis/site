@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: No man Aircrafts 
-image_url: /images/Drones_Original.jpg
+image_url: /images/Sirius_drone.jpg
 caption: Διαφάνειες για το κεφάλαιο Drones 
 slides:
   - card-puncher
